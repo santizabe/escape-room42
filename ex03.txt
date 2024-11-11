@@ -1,0 +1,44 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex03.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/11 10:48:48 by szapata-          #+#    #+#              #
+#    Updated: 2024/11/11 12:00:50 by szapata-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Challenge #3:
+No está mal, no está nada mal. Ahora que acabó el calentamiento
+vamos a lo divertido:
+
+Escribe un programa que recibe un argumento por consola, si este
+argumento contiene el caracter correspondiente al índice ASCII
+de la respuesta al sentido de la vida, el universo y todo lo demás,
+tendrás que escribir la respuesta al sentido de la vida, el universo
+y todo lo demás en su forma numérica en base decimal. En caso contrario, solo debes
+imprimir el caracter. Si el programa tiene más de un argumento, 
+solo tomará en cuenta el primer argumento, aplicará las operaciones 
+explicadas anteriormente e ignorará los demás argumentos.
+Tu programa debe concluir con un salto de línea y terminar.
+Si no se pasa ningún argumento a tu programa, solo imprimirá un
+salto de línea y su valor de retorno será cero.
+
+Carpeta de entrega: ex03
+
+Nombre del archivo: and_everything.c
+
+Funciones autorizadas: write
+
+Ejemplos:
+
+./and_everything "my_string [secret character] is awesome" | cat -e
+my_string [the answer in numbers] is awesome$
+
+./and_everything "" | cat -e
+$
+
+./and_everything "[secret character]" "[secret character]" | cat -e
+[the answer in numbers]$

@@ -1,0 +1,25 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    intro.txt                                          :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/11 10:31:41 by szapata-          #+#    #+#              #
+#    Updated: 2024/11/11 10:34:21 by szapata-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Bienvenid@ a bordo novato, es raro ver gente nueva por
+aquí. Pensaba que las formas de vida terrestres curiosas
+ya se habían extinguido, pero me alegra que estés aquí.
+Espera un momento ¡¿Que no has pagado el ticket?! Vaya,
+parece que tenemos a un polizón a bordo, así que si no estás
+dispuesto a pagar los 10000 Altarians del ticket, tendrás que 
+demostrar tu valor con un par de retos, de lo contrario te
+echaremos de la nave. Buena suerte ahí fuera en el espacio;
+las formas de vida aeróbicas suelen pasarlas bastante mal en
+el vacío de presión cero..
+¡Vaya! ¿con que quieres intentar los retos? Interesante..
+Te lo advierto, no son nada sencillos, pero aún asi
+te deseo mucha suerte y que la fuerza te acompañe.

@@ -1,0 +1,13 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    credits.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/11 12:03:11 by szapata-          #+#    #+#              #
+#    Updated: 2024/11/11 12:09:14 by szapata-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+¡Enhorabuena! has logrado superar todos los retos sin derramar ni una sola gota de líquido salino concentrado. Ahora que has demostrado tu valía, te concedo el honor de viajar con nosotros en esta nave de última tecnología únicamente hasta nuestro paso por "škola čtyřicet dva", allí seguirá tu aventura como autoestopista espacial. Así que amarra bien tu toalla y ¡a explorar!

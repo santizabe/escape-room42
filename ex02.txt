@@ -1,0 +1,26 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex02.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/11 10:24:32 by szapata-          #+#    #+#              #
+#    Updated: 2024/11/11 11:56:11 by szapata-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Challenge #2:
+Vamos calentando motores ¿eh? Sigue así y muy pronto
+desvelarás realmente el sentido detrás de la respuesta.
+Ahora, para tu siguiente reto:
+
+Escribe un programa que imprima en pantalla el caracter
+ASCII cuyo índice corresponde a la respuesta de
+"El sentido de la vida, el universo y todo lo demás"
+seguido de un salto de línea y su valor de retorno será
+la respuesta de "El sentido de la vida, el universo y todo lo demás".
+
+Nombre del archivo: the_universe.c
+
+Funciones autorizadas: write

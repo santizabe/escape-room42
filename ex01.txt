@@ -1,0 +1,25 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex01.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/11 10:13:54 by szapata-          #+#    #+#              #
+#    Updated: 2024/11/11 11:52:52 by szapata-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Challenge #1:
+Si has logrado descifrar la respuesta, bienvenid@ seas
+novato autoestopista. Tu siguiente reto será:
+Escribe una función que imprima en pantalla la respuesta 
+al sentido de la vida, el universo y todo lo demás utilizando 
+únicamente caracteres alfabéticos en minúsculas, seguido de un 
+salto de linea.
+
+Nombre del archivo: to_life.c
+
+Prototipo de la función: void to_life(void);
+
+funciones autorizadas: write

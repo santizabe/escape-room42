@@ -1,0 +1,25 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex00.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/11 11:45:46 by szapata-          #+#    #+#              #
+#    Updated: 2024/11/11 11:48:52 by szapata-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Challenge #0:
+
+Escribe una función que imprima en pantalla la respuesta de
+"El sentido de la vida el universo y todo lo demás" seguido de
+un salto de línea.
+
+Carpeta de entrega: ex00
+
+Nombre del archivo: the_answer.c
+
+Prototipo de la función: void the_answer(void)
+
+Funciones autorizadas: write

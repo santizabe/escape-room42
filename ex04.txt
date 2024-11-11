@@ -1,0 +1,41 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    ex04.txt                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/11/11 11:05:25 by szapata-          #+#    #+#              #
+#    Updated: 2024/11/11 11:44:35 by szapata-         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Challenge #4:
+Has superado por completo mis expectativas, pero aún no cantes
+victoria, aunque soy el vogon mas curioso del universo 0x2A
+!Soy muy inflexible! Esta será tu última prueba:
+
+Escribe un programa que recibe un argumento por consola y 
+encripta este argumento aumentando cada caracter alfabetico por el 
+resultado de la resta entre la respuesta al sentido de la vida,
+el universo y todo lo demás en su base octal menos su base decimal.
+El programa debe imprimir en pantalla el mensaje encriptado.
+Si el caracter llega a z o Z, volverá a comenzar con su
+correspondiente letra, es decir a o A.
+
+Carpeta de entrega: ex04
+
+Nombre del archivo: galaxy_master.c
+
+Funciones autorizadas: write
+
+Ejemplos:
+
+./galaxy_master "Hola" | cat -e
+Ryvk$
+
+./galaxy_master "Un mensaje de prueba" | cat -e
+Ex woxckto no zbeolk$
+
+./galaxy_master "#8/7/6/5/*/3/**/1" | cat -e
+#8/7/6/5/*/3/**/1$
