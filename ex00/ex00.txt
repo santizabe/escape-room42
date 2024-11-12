@@ -11,6 +11,10 @@
 # **************************************************************************** #
 
 Challenge #0:
+Todas las formas de vida pensantes en este universo conocemos la 
+respuesta a todas las preguntas que se han hecho y se harán. Es 
+algo básico para la supervivencia. Más de una vez me ha salvado el 
+pellejo esa palabra mágica y hoy esta será tu lección.
 
 Escribe una función que imprima en pantalla la respuesta de
 "El sentido de la vida el universo y todo lo demás" seguido de

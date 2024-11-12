@@ -11,8 +11,14 @@
 # **************************************************************************** #
 
 Challenge #3:
-No está mal, no está nada mal. Ahora que acabó el calentamiento
-vamos a lo divertido:
+No está mal, no está nada mal. Estás a mitad de camino para llegar
+a la sala de control y salvarte de quedar flotando en el vacio
+absoluto solin solito. Ahora mismo estamos en el planeta gemelo 
+inverso de los **lovers. En esta zona repudian la censura y te
+retarán a que grites a los 4 puntos cardinales y los 2 planos que
+componen el infinito "La respuesta". Te aconsejaría lo siguiente si
+quieres evitar que te teletransporten a un agujero negro donde serías
+censurado por todo el espacio-tiempo:
 
 Escribe un programa que recibe un argumento por consola, si este
 argumento contiene el caracter correspondiente al índice ASCII
@@ -28,7 +34,7 @@ salto de línea y su valor de retorno será cero.
 
 Carpeta de entrega: ex03
 
-Nombre del archivo: and_everything.c
+Nombre del archivo: the_universe.c
 
 Funciones autorizadas: write
 

@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-Bienvenid@ a bordo novato, es raro ver gente nueva por
+Bienvenid@ a bordo novat@, es raro ver gente nueva por
 aquí. Pensaba que las formas de vida terrestres curiosas
 ya se habían extinguido, pero me alegra que estés aquí.
 Espera un momento ¡¿Que no has pagado el ticket?! Vaya,
@@ -21,5 +21,9 @@ echaremos de la nave. Buena suerte ahí fuera en el espacio;
 las formas de vida aeróbicas suelen pasarlas bastante mal en
 el vacío de presión cero..
 ¡Vaya! ¿con que quieres intentar los retos? Interesante..
-Te lo advierto, no son nada sencillos, pero aún asi
-te deseo mucha suerte y que la fuerza te acompañe.
+Te lo advierto, no son nada sencillos, además que contarás con un
+tiempo límite para cada ejercicio. Si aún no descifras la respuesta
+y el tiempo se agota, la cápsula en la que estés se desprenderá y
+quedarás flotando en el vacío. Debes apresurarte porque en el momento
+en que cierre esta puerta comenzará el conteo regresivo. Aún asi
+te deseo mucha suerte y que la fuerza te acompañe viajero.

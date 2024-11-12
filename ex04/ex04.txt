@@ -25,7 +25,7 @@ correspondiente letra, es decir a o A.
 
 Carpeta de entrega: ex04
 
-Nombre del archivo: galaxy_master.c
+Nombre del archivo: and_everything.c
 
 Funciones autorizadas: write
 

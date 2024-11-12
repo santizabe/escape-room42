@@ -1,0 +1,8 @@
+# Para desencriptar el archivo que contiene la respuesta tendrás que
+# descubrir el hash de:
+
+# "El sentido de la vida, el universo y todo lo demás"
+
+# Estas herramientas te serán útiles:
+# - sha1sum
+# - openssl enc

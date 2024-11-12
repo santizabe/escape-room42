@@ -13,7 +13,13 @@
 Challenge #2:
 Vamos calentando motores ¿eh? Sigue así y muy pronto
 desvelarás realmente el sentido detrás de la respuesta.
-Ahora, para tu siguiente reto:
+Ahora mismo estamos pasando por la galaxia donde están los mas
+fanáticos de **. Se les conoce como **lovers y no permiten que
+nadie mencione el nombre de "El sentido de la vida.. " en vano;
+ya sabes, cosas de fanáticos. Es por esto que han puesto en clave
+el nombre de ** en código. Para evitar que bombardeen la habitación
+en la que estás tendrás que mostrarles que también reconoces que
+** tiene un poder más allá de lo imaginado. Con esto en mente:
 
 Escribe un programa que imprima en pantalla el caracter
 ASCII cuyo índice corresponde a la respuesta de
@@ -21,6 +27,6 @@ ASCII cuyo índice corresponde a la respuesta de
 seguido de un salto de línea y su valor de retorno será
 la respuesta de "El sentido de la vida, el universo y todo lo demás".
 
-Nombre del archivo: the_universe.c
+Nombre del archivo: to_life.c
 
 Funciones autorizadas: write

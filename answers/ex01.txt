@@ -10,12 +10,10 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+hash de 42 (sin salto de linea):
 
-void	to_life(void)
-{
-	char	*s;
+"92cfceb39d57d914ed8b14d0e37643de0797ae56"
 
-	s = "cuarenta y dos\n";
-	write(1, s, 15);
-}
+Comando para desencriptar:
+
+"openssl enc -d -camellia128 -in encrypted_key.enc"

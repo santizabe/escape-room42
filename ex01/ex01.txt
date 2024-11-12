@@ -11,15 +11,15 @@
 # **************************************************************************** #
 
 Challenge #1:
-Si has logrado descifrar la respuesta, bienvenid@ seas
-novato autoestopista. Tu siguiente reto será:
-Escribe una función que imprima en pantalla la respuesta 
-al sentido de la vida, el universo y todo lo demás utilizando 
-únicamente caracteres alfabéticos en minúsculas, seguido de un 
-salto de linea.
+Vaya! parece que has tenido suerte y has logrado escapar con éxito
+viajero autoestopista. Bienvenid@ al "CAMELLIA128 SHA1 room", donde tu 
+siguiente reto será encontrar la llave que abre a la siguiente 
+habitación.
 
-Nombre del archivo: to_life.c
+En este directorio tienes un archivo encriptado que contiene la llave
+que abre la puerta a la siguiente habitación. Tendrás que desencriptar
+esta llave para avanzar.
 
-Prototipo de la función: void to_life(void);
+Clave:
 
-funciones autorizadas: write
+"Lo esencial es invisible para los ojos"
