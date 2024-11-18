@@ -6,8 +6,16 @@
 #    By: szapata- <szapata-@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/11/11 12:03:11 by szapata-          #+#    #+#              #
-#    Updated: 2024/11/11 12:09:14 by szapata-         ###   ########.fr        #
+#    Updated: 2024/11/18 08:19:59 by szapata-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-¡Enhorabuena terrícola! has logrado superar todos los retos sin derramar ni una sola gota de líquido salino concentrado. Ahora que has demostrado tu valía, te concedo el honor de viajar con nosotros en esta nave de última tecnología donde tenemos todas las comodidades para que tu viaje sea lo mas top, aunque solamente nos podrás acompañar hasta nuestro paso por "škola čtyřicet dva", para viajar más allá de este punto tendrás que aprender las habilidades necesarias para sobrevivir a las improbables y expectantes trquiñuelas del universo. Allí seguirá tu aventura para convertirte en un experto autoestopista espacial. Así que amarra bien tu toalla y ¡a explorar!
+¡Enhorabuena terrícola! has logrado superar todos los retos sin derramar ni 
+una sola gota de líquido salino concentrado. Ahora que has demostrado tu 
+valía, te concedo el honor de viajar con nosotros en esta nave de última 
+tecnología donde tenemos todas las comodidades para que tu viaje sea lo mas 
+top, aunque solamente nos podrás acompañar hasta nuestro paso por "škola 
+čtyřicet dva", para viajar más allá de este punto tendrás que aprender las 
+habilidades necesarias para sobrevivir a las improbables y expectantes 
+triquiñuelas del universo. Allí seguirá tu aventura para convertirte en un 
+experto autoestopista espacial. Así que amarra bien tu toalla y ¡a explorar!
